@@ -1,6 +1,6 @@
 # Learning Journal
 
-###23/02/2021
+### 23/02/2021
 I looked through some different tutorials on how to make a timer that counts down in minutes and seconds.
 These are links I viewed:
 - https://answers.unity.com/questions/225213/c-countdown-timer.html
