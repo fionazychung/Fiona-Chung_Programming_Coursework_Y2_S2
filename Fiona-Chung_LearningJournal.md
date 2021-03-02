@@ -11,3 +11,13 @@ https://gamedevbeginner.com/how-to-make-countdown-timer-in-unity-minutes-seconds
 
 The tutorial I ended up picking explained the process step by step and was very clear. It is also a very simple/generic timer that can be used as a package in many different games.
 
+### 2/03/2021
+For my third package I'm looking into making a bar that can be used as a bar for a game, using the Unity UI, that can be increased or decreased in value.
+
+For a loading bar:
+https://www.youtube.com/watch?v=YMj2qPq9CP8
+
+For a health bar:
+https://www.youtube.com/watch?v=CA2snUe7ARM
+https://www.youtube.com/watch?v=BLfNP4Sc_iA
+
