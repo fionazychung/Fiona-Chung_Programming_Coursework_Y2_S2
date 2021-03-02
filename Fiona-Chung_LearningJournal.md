@@ -19,5 +19,5 @@ For a loading bar:
 
 For a health bar:
 - https://www.youtube.com/watch?v=CA2snUe7ARM
-- https://www.youtube.com/watch?v=BLfNP4Sc_iA
+- https://www.youtube.com/watch?v=BLfNP4Sc_iA (This video used the Unity UI so it is more relevant)
 
