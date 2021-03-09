@@ -19,5 +19,12 @@ For a loading bar:
 
 For a health bar:
 - https://www.youtube.com/watch?v=CA2snUe7ARM
-- https://www.youtube.com/watch?v=BLfNP4Sc_iA
+- https://www.youtube.com/watch?v=BLfNP4Sc_iA (This is the one I mainly followed)
 
+### 09/03/2021
+My last package will be a pickup package.
+A simple pickup tutorial I have previously used for a project:
+https://www.youtube.com/watch?v=XnKKaL5iwDM&t=449s
+
+I used part of this tutorial to quickly set up some movement so that I could showcase that the pickups work:
+https://www.youtube.com/watch?v=4HpC--2iowE
