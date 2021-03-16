@@ -28,3 +28,6 @@ https://www.youtube.com/watch?v=XnKKaL5iwDM&t=449s
 
 I used part of this tutorial to quickly set up some movement so that I could showcase that the pickups work:
 https://www.youtube.com/watch?v=4HpC--2iowE
+
+### 16/03/2021
+When putting my packages together I got an error with my last package. The problem was with the Player script part of the example. I was able to solve it by changing the script name to PlayerMovement and then reassigning the character controller in the inspector. I will have to go back to my last package and repeat this process before the final submission.
